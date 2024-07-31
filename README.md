@@ -1,4 +1,4 @@
-# This is a GitHub Repo for the SOAR/BISCUIT 2024 workshop on MuJoCo by Elliott Abe. 
+# This is a GitHub Repo for the SOAR/BISCCIT 2024 workshop on MuJoCo by Elliott Abe. 
 
 # [Introduction Slideshow](https://docs.google.com/presentation/d/1kLpJ7nwJPFg7W-CnRZL_Ey9YjGakV3mL9xBlP_S7TU0/edit?usp=sharing)
 
