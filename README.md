@@ -15,8 +15,22 @@
 </a>
 
 - MuJoCo MJX 
-    - MJX is the version of MuJoCo that runs [JAX](https://jax.readthedocs.io/en/latest/quickstart.html) in the backend and enables GPU simulations and environments: &nbsp;
+    - MJX is the version of MuJoCo that runs [JAX](https://jax.readthedocs.io/en/latest/quickstart.html) in the backend and enables GPU simulations and environments: &nbsp;  
+    <a href="https://colab.research.google.com//github/elliottabe/mujoco_workshop2024/blob/main/MJX_Examples.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt= "Open In Colab" /></a>
 
+
+# Additional notebooks to explore: 
+- DM_control tutorial: 
+  -  <a href="https://colab.research.google.com/github/google-deepmind/dm_control/blob/main/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt= "Open In Colab" /></a>
+
+- The **LQR** tutorial synthesizes a linear-quadratic controller, balancing a humanoid on one leg:
+  -  <a href="https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/LQR.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt= "Open In Colab" /></a>
+
+- The **least-squares** tutorial explains how to use the Python-based nonlinear least-squares solver:
+  -  <a href="https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/least_squares.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt= "Open In Colab" /></a>
+
+- The **differentiable physics** tutorial trains locomotion policies with analytical gradients automatically derived from MuJoCo's physics step:
+  -  <a href="https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/mjx/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt= "Open In Colab" /></a>
 
 
 # Local Installation Instructions
