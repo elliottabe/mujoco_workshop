@@ -1,0 +1,45 @@
+<mujoco>
+  <asset>
+    <texture name="grid" type="2d" builtin="checker" rgb1=".1 .2 .3"
+     rgb2=".2 .3 .4" width="300" height="300"/>
+    <material name="grid" texture="grid" texrepeat="8 8" reflectance=".2"/>
+  </asset>
+
+    <worldbody>
+        <geom size="3 1 .01" pos="0 0 -.2" type="plane" material="grid"/>
+        <light name="top1" pos="1 0 1" diffuse="0.3 0.3 0.3"/>
+        <light name="top2" pos="0 0 1" diffuse="0.3 0.3 0.3"/>
+        <light name="top3" pos="2 0 1" diffuse="0.3 0.3 0.3"/>
+        <!-- Base body -->
+        <body name="base1" pos="0 0 0">
+            <!-- Free joint -->
+            <joint name=" free_joint" type="free"/>
+            <geom name="base_geom" type="box" size="0.1 0.1 0.1" rgba="0.8 0.6 0.4 1"/>
+        </body>
+        <body name="base2" pos="0 0 0">
+            <!-- Ball joint -->
+            <body name="ball_joint_body" pos="0 0 0.5">
+                <joint name="ball_joint" type="ball"/>
+                <geom name="ball_geom" type="sphere" size="0.1" rgba="0.6 0.8 0.4 1"/>
+            </body>
+
+            <!-- Hinge joint -->
+            <body name="hinge_joint_body" pos="0.5 0 0">
+                <joint name="hinge_joint" type="hinge" axis="0 1 0"/>
+                <geom name="hinge_geom" type="cylinder" size="0.05 0.2" rgba="0.4 0.6 0.8 1"/>
+            </body>
+
+            <!-- Slide joint -->
+            <body name="slide_joint_body" pos="0 0.5 0">
+                <joint name="slide_joint" type="slide" axis="1 0 0"/>
+                <geom name="slide_geom" type="cylinder" size="0.05 0.2" rgba="0.8 0.6 0.4 1"/>
+            </body>
+
+            <!-- Planar joint -->
+            <body name="planar_joint_body" pos="0.5 -0.5 0">
+                <joint name="planar_joint" type="slide"/>
+                <geom name="planar_geom" type="box" size="0.1 0.1 0.1" rgba="0.8 0.8 0.4 1"/>
+            </body>
+        </body>
+    </worldbody>
+</mujoco>

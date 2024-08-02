@@ -163,3 +163,4 @@ cython_debug/
 MUJOCO_LOG.TXT
 
 Models/fruitfly
+Archive/
