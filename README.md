@@ -38,7 +38,7 @@ This workshop was designed to be able to work fully in collab notebooks with int
 # Local Installation Instructions
 
 Clone the git repo from:  
-`git clone https://github.com/elliottabe/mujoco_workshop2024.git`
+`git clone https://github.com/elliottabe/mujoco_workshop2025.git`
 
 Enter the mujoco_workshop2024 folder:  
 `cd mujoco_workshop2024`
