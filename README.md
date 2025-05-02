@@ -1,4 +1,4 @@
-# This is a GitHub Repo for the SOAR/BISCCIT 2024 workshop on MuJoCo by Elliott Abe. 
+# This is a GitHub Repo for the SOAR/BISCCIT 2025 workshop on MuJoCo by Elliott Abe. 
 
 This workshop was designed to be able to work fully in collab notebooks with internet access. If you would like to install on your local computer see install instructions at the bottom. 
 
