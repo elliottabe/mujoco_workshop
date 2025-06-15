@@ -162,5 +162,5 @@ cython_debug/
 #.idea/
 MUJOCO_LOG.TXT
 
-Models/fruitfly
+
 Archive/
