@@ -6,7 +6,7 @@ This workshop was designed to be able to work fully in collab notebooks with int
 
 # Notebooks for workshop
 - Introduction to MuJoCo
-  - This [notebook](./Introduction01.ipynb) introduces the basics of MuJoCo models, simultation and rendering: &nbsp;  
+  - This [notebook](./Introduction.ipynb) introduces the basics of MuJoCo models, simulation and rendering: &nbsp;  
   <a target="_blank" href="https://colab.research.google.com/github/elliottabe/mujoco_workshop2024/blob/main/Introduction.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
@@ -22,7 +22,7 @@ This workshop was designed to be able to work fully in collab notebooks with int
 
 
 # Additional notebooks to explore: 
-- DM_control tutorial: 
+- DM_control tutorial (DM_Control will eventually be deprecated): 
   -  <a href="https://colab.research.google.com/github/google-deepmind/dm_control/blob/main/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt= "Open In Colab" /></a>
 
 - The **LQR** tutorial synthesizes a linear-quadratic controller, balancing a humanoid on one leg:
