@@ -37,7 +37,7 @@ This workshop was designed to be able to work fully in collab notebooks with int
   -  <a href="https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/least_squares.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt= "Open In Colab" /></a>
 
 - The **differentiable physics** tutorial trains locomotion policies with analytical gradients automatically derived from MuJoCo's physics step:
-  -  <a href="https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/mjx/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt= "Open In Colab" /></a>
+  -  <a href="https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/mjx/training_apg.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt= "Open In Colab" /></a>
 
 
 # Local Installation Instructions
