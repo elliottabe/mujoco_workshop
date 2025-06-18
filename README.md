@@ -11,7 +11,7 @@ This workshop was designed to be able to work fully in collab notebooks with int
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 - Model Editing with MjSpec
-  - This [notebook](./mjspec.ipynb) introduces the basics of how to programatically edit and manipulate models in MuJoCo.
+  - This [notebook](./mjspec.ipynb) introduces the basics of how to programatically edit and manipulate models in MuJoCo. &nbsp;  
     <a target="_blank" href="https://colab.research.google.com/github/elliottabe/mujoco_workshop2024/blob/main/mjspec.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
