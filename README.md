@@ -43,10 +43,10 @@ This workshop was designed to be able to work fully in collab notebooks with int
 # Local Installation Instructions
 
 Clone the git repo from:  
-`git clone https://github.com/elliottabe/mujoco_workshop2025.git`
+`git clone https://github.com/elliottabe/mujoco_workshop.git`
 
 Enter the mujoco_workshop2024 folder:  
-`cd mujoco_workshop2024`
+`cd mujoco_workshop`
 
 ## Setup for installing conda environment and dependencies
 To install the repo there is a conda environment that will install the necessary packages. Make sure you are in the mujoco_workshop Github directory.  
