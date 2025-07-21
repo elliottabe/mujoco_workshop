@@ -49,7 +49,7 @@ Enter the mujoco_workshop2024 folder:
 `cd mujoco_workshop2024`
 
 ## Setup for installing conda environment and dependencies
-To install the repo there is a conda environment that will install the necessary packages. Make sure you are in the pytorchGLM Github directory.  
+To install the repo there is a conda environment that will install the necessary packages. Make sure you are in the mujoco_workshop Github directory.  
 Use command:  
 `conda env create -f environment.yaml`
 
