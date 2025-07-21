@@ -1,12 +1,12 @@
-# This is a GitHub Repo for the SOAR/BISCCIT 2025 workshop on MuJoCo by Elliott Abe. 
+# This is a GitHub Repo for the workshop on MuJoCo by Elliott Abe. 
 
-This workshop was designed to be able to work fully in collab notebooks with internet access. If you would like to install on your local computer see install instructions at the bottom. 
+This workshop was designed to be able to work fully in collab notebooks with internet access. If you would like to install on your local computer, see install instructions at the bottom. 
 
 # [Introduction Slideshow](https://docs.google.com/presentation/d/1kLpJ7nwJPFg7W-CnRZL_Ey9YjGakV3mL9xBlP_S7TU0/edit?usp=sharing)
 
 # Notebooks for workshop
 - Introduction to MuJoCo
-  - This [notebook](./Introduction.ipynb) introduces the basics of MuJoCo models, simulation and rendering: &nbsp;  
+  - This [notebook](./Introduction.ipynb) introduces the basics of MuJoCo models, simulation, and rendering: &nbsp;  
   <a target="_blank" href="https://colab.research.google.com/github/elliottabe/mujoco_workshop2024/blob/main/Introduction.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
