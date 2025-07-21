@@ -2,7 +2,7 @@
 
 This workshop was designed to be able to work fully in collab notebooks with internet access. If you would like to install on your local computer, see install instructions at the bottom. 
 
-# [Introduction Slideshow](https://docs.google.com/presentation/d/1kLpJ7nwJPFg7W-CnRZL_Ey9YjGakV3mL9xBlP_S7TU0/edit?usp=sharing)
+# [Introduction Slideshow](https://docs.google.com/presentation/d/1db3w0XCbqaA_4OCZj-JK-Y6mf74p1sOYVRD3Rk6ZzEQ/edit?usp=sharing)
 
 # Notebooks for workshop
 - Introduction to MuJoCo
