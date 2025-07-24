@@ -18,9 +18,9 @@ This workshop was designed to be able to work fully in collab notebooks with int
 
 - Flybody Example
   - The [flybody notebook](./Flybody_example.ipynb) covers the basics of working with the biomechanical model of the fruitfly created by Janelia: &nbsp;  
-  <a target="_blank" href="https://colab.research.google.com/github/elliottabe/mujoco_workshop/blob/main/Flybody_example.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/elliottabe/mujoco_workshop/blob/main/Flybody_example.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-  </a>
+</a>
 
 - MuJoCo MJX 
     - MJX is the version of MuJoCo that runs [JAX](https://jax.readthedocs.io/en/latest/quickstart.html) in the backend and enables GPU simulations and environments: &nbsp;  
