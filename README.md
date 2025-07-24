@@ -45,7 +45,7 @@ This workshop was designed to be able to work fully in collab notebooks with int
 Clone the git repo from:  
 `git clone https://github.com/elliottabe/mujoco_workshop.git`
 
-Enter the mujoco_workshop2024 folder:  
+Enter the mujoco_workshop folder:  
 `cd mujoco_workshop`
 
 ## Setup for installing conda environment and dependencies
