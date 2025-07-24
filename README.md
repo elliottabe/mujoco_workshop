@@ -7,8 +7,9 @@ This workshop was designed to be able to work fully in collab notebooks with int
 # Notebooks for workshop
 - Introduction to MuJoCo
   - This [notebook](./Introduction.ipynb) introduces the basics of MuJoCo models, simulation, and rendering: &nbsp;  
-  <a target="_blank" href="https://colab.research.google.com/github/elliottabe/mujoco_workshop2024/blob/main/Introduction.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  <a target="_blank" href="https://colab.research.google.com/github/elliottabe/mujoco_workshop/blob/main/Introduction.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
 
 - Model Editing with MjSpec
   - This [notebook](./mjspec.ipynb) introduces the basics of how to programatically edit and manipulate models in MuJoCo. &nbsp;  
@@ -17,8 +18,8 @@ This workshop was designed to be able to work fully in collab notebooks with int
 
 - Flybody Example
   - The [flybody notebook](./Flybody_example.ipynb) covers the basics of working with the biomechanical model of the fruitfly created by Janelia: &nbsp;  
-  <a target="_blank" href="https://colab.research.google.com/github/elliottabe/mujoco_workshop2024/blob/main/Flybody_example.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  <a target="_blank" href="https://colab.research.google.com/github/elliottabe/mujoco_workshop/blob/main/Flybody_example.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
 
 - MuJoCo MJX 
