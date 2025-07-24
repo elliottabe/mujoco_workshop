@@ -1,4 +1,4 @@
-# This is a GitHub Repo for the workshop on MuJoCo by Elliott Abe. 
+# This is a GitHub Repo for the workshop on MuJoCo. 
 
 This workshop was designed to be able to work fully in collab notebooks with internet access. If you would like to install on your local computer, see install instructions at the bottom. 
 
