@@ -58,4 +58,4 @@ After installing activate the conda environment:
 `conda activate mujoco_workshop`
 
 After installing the conda environment. Run this command to install pip reqruirements:  
-`pip install -r requirements.txt`
+`uv pip install -r requirements.txt`
